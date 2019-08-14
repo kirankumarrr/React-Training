@@ -25,32 +25,32 @@
     "visible": "developer"
   },
   {
-    "id": 5,
+    "id": 6,
     "name": "js",
     "visible": "u"
   },
   {
-    "id": 6,
+    "id": 7,
     "name": "python",
     "visible": "backend"
   },
   {
-    "id": 7,
+    "id": 8,
     "name": "set",
     "visible": "rule"
   },
   {
-    "id": 8,
+    "id": 9,
     "name": "component",
     "visible": "popup"
   },
   {
-    "id": 9,
+    "id": 10,
     "name": "state",
     "visible": "setsate"
   },
   {
-    "id": 10,
+    "id": 11,
     "name": "push",
     "visible": "props"
   }
