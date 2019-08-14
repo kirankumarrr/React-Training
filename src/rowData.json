@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "kiran",
+    "visible": "Mike"
+  },
+  {
+    "id": 2,
+    "name": "tinku",
+    "visible": "run"
+  },
+  {
+    "id": 3,
+    "name": "war",
+    "visible": "new"
+  },
+  {
+    "id": 4,
+    "name": "react",
+    "visible": "pending"
+  },
+  {
+    "id": 5,
+    "name": "react-native",
+    "visible": "developer"
+  },
+  {
+    "id": 5,
+    "name": "js",
+    "visible": "u"
+  },
+  {
+    "id": 6,
+    "name": "python",
+    "visible": "backend"
+  },
+  {
+    "id": 7,
+    "name": "set",
+    "visible": "rule"
+  },
+  {
+    "id": 8,
+    "name": "component",
+    "visible": "popup"
+  },
+  {
+    "id": 9,
+    "name": "state",
+    "visible": "setsate"
+  },
+  ,
+  {
+    "id": 10,
+    "name": "push",
+    "visible": "props"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "field": "id",
+    "displayName": "ID",
+    "sort": true,
+    "filter": true,
+    "routeLink": true,
+    "defautDisplay": false
+  },
+  {
+    "field": "name",
+    "displayName": "Name",
+    "sort": true,
+    "filter": true,
+    "routeLink": true,
+    "defautDisplay": true
+  },
+  {
+    "field": "visible",
+    "displayName": "Visible YEs",
+    "sort": true,
+    "filter": true,
+    "routeLink": true,
+    "defautDisplay": false
+  }
+]
