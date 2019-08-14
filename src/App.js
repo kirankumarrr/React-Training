@@ -3,6 +3,7 @@ import Child from "./child";
 class App extends Component {
   constructor(props) {
     super(props);
+    //
     this.state = {
       pro: "React",
       number: 1,
