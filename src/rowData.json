@@ -14,7 +14,8 @@
         "prosType": "SS42",
         "propsNum": "42"
       }
-    ]
+    ],
+    "bool": false
   },
   {
     "id": 2,
@@ -31,27 +32,33 @@
         "prosType": "SS52",
         "propsNum": "52"
       }
-    ]
+    ],
+    "bool": false,
+    "local": ["a", "b", "c"]
   },
   {
     "id": 3,
     "name": "war",
-    "visible": "new"
+    "visible": "new",
+    "bool": true
   },
   {
     "id": 4,
     "name": "react",
-    "visible": "pending"
+    "visible": "pending",
+    "bool": false
   },
   {
     "id": 5,
     "name": "react-native",
-    "visible": "developer"
+    "visible": "developer",
+    "bool": true
   },
   {
     "id": 6,
     "name": "js",
-    "visible": "u"
+    "visible": "u",
+    "bool": false
   },
   {
     "id": 7,
@@ -68,26 +75,32 @@
         "prosType": "SS32",
         "propsNum": "32"
       }
-    ]
+    ],
+    "local": ["e", "f", "g"],
+    "bool": true
   },
   {
     "id": 8,
     "name": "set",
-    "visible": "rule"
+    "visible": "rule",
+    "bool": false
   },
   {
     "id": 9,
     "name": "component",
-    "visible": "popup"
+    "visible": "popup",
+    "bool": true
   },
   {
     "id": 10,
     "name": "state",
-    "visible": "setsate"
+    "visible": "setsate",
+    "local": ["h", "i", "gk"]
   },
   {
     "id": 11,
     "name": "push",
-    "visible": "props"
+    "visible": "props",
+    "bool": true
   }
 ]

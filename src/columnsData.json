@@ -30,5 +30,21 @@
     "filter": true,
     "routeLink": true,
     "defautDisplay": true
+  },
+  {
+    "field": "local",
+    "displayName": "Local YEs",
+    "sort": true,
+    "filter": true,
+    "routeLink": true,
+    "defautDisplay": true
+  },
+  {
+    "field": "bool",
+    "displayName": "Boolean YEs",
+    "sort": true,
+    "filter": true,
+    "routeLink": true,
+    "defautDisplay": true
   }
 ]
