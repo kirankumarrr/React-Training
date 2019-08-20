@@ -2,12 +2,36 @@
   {
     "id": 1,
     "name": "kiran",
-    "visible": "Mike"
+    "visible": "Mike",
+    "pros": [
+      {
+        "prosId": "0041",
+        "prosType": "SS40",
+        "propsNum": "40"
+      },
+      {
+        "prosId": "0042",
+        "prosType": "SS42",
+        "propsNum": "42"
+      }
+    ]
   },
   {
     "id": 2,
     "name": "tinku",
-    "visible": "run"
+    "visible": "run",
+    "pros": [
+      {
+        "prosId": "0051",
+        "prosType": "SS50",
+        "propsNum": "50"
+      },
+      {
+        "prosId": "0052",
+        "prosType": "SS52",
+        "propsNum": "52"
+      }
+    ]
   },
   {
     "id": 3,
@@ -32,7 +56,19 @@
   {
     "id": 7,
     "name": "python",
-    "visible": "backend"
+    "visible": "backend",
+    "pros": [
+      {
+        "prosId": "0031",
+        "prosType": "SS30",
+        "propsNum": "30"
+      },
+      {
+        "prosId": "0032",
+        "prosType": "SS32",
+        "propsNum": "32"
+      }
+    ]
   },
   {
     "id": 8,
