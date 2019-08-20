@@ -22,5 +22,13 @@
     "filter": true,
     "routeLink": true,
     "defautDisplay": false
+  },
+  {
+    "field": "pros",
+    "displayName": "Pro YEs",
+    "sort": true,
+    "filter": true,
+    "routeLink": true,
+    "defautDisplay": true
   }
 ]
