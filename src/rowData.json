@@ -16,7 +16,7 @@
       }
     ],
     "bool": false,
-    "date": "02-03-1990 11:25"
+    "date": 1364999400009
   },
   {
     "id": 2,
@@ -36,35 +36,35 @@
     ],
     "bool": false,
     "local": ["a", "b", "c"],
-    "date": "02-04-1992 11:25"
+    "date": 1364990400009
   },
   {
     "id": 3,
     "name": "war",
     "visible": "new",
     "bool": true,
-    "date": "02-04-1991 11:25"
+    "date": 1364990400000
   },
   {
     "id": 4,
     "name": "react",
     "visible": "pending",
     "bool": false,
-    "date": "02-07-1992 10:25"
+    "date": 1513776006138
   },
   {
     "id": 5,
     "name": "react-native",
     "visible": "developer",
     "bool": true,
-    "date": "07-04-1992 09:25"
+    "date": 1548962423100
   },
   {
     "id": 6,
     "name": "js",
     "visible": "u",
     "bool": false,
-    "date": "07-04-1995 09:25"
+    "date": 1460116800000
   },
   {
     "id": 7,
@@ -84,34 +84,34 @@
     ],
     "local": ["e", "f", "g"],
     "bool": true,
-    "date": "07-04-1992 09:25"
+    "date": 1548962428452
   },
   {
     "id": 8,
     "name": "set",
     "visible": "rule",
     "bool": false,
-    "date": "07-03-2002 09:25"
+    "date": 1548962426584
   },
   {
     "id": 9,
     "name": "component",
     "visible": "popup",
     "bool": true,
-    "date": "07-03-1998 07:25"
+    "date": 1559151910729
   },
   {
     "id": 10,
     "name": "state",
     "visible": "setsate",
     "local": ["h", "i", "gk"],
-    "date": "04-03-2018 07:25"
+    "date": 1555535815766
   },
   {
     "id": 11,
     "name": "push",
     "visible": "props",
     "bool": true,
-    "date": "07-09-2017 06:25"
+    "date": 1317816000000
   }
 ]
